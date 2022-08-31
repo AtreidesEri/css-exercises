@@ -1,6 +1,10 @@
-p {
+.class {
     background-color: lightpink;
     font-family: 'Verdana','DejaVu Sans','sans-serif';
+}
+
+.id {
+    font-size: 36px;
 }
 
 #num2 {
